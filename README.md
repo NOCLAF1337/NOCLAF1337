@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **Noclaf1337@protonmail.com**
+- 📫 E-Mail : **Noclaf1337@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
