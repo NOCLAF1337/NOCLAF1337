@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NOCLAF1337</h1>
 <h3 align="center">A passionate python developer from France</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C#**
 
 - 📫 E-Mail : **Noclaf1337@protonmail.com**
 
